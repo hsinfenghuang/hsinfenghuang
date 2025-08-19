@@ -1,5 +1,3 @@
-c?????g@i????d.c?m
-
 星空下微風輕拂黃光閃耀的世界
 
 2025年至2038年紀錄
@@ -18,3 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+c?????g@i????d.c?m
