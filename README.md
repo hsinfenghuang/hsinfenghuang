@@ -38,6 +38,9 @@ github:
 測試站:
 - 設定檔保存
 
+Amazon S3:
+- http://hsinfenghuang.s3-website-ap-southeast-2.amazonaws.com/
+
 localhost:
 - http://localhost:4000
 
